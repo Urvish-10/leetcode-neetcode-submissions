@@ -77,6 +77,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/2029-stone-game-ix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -85,14 +86,17 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/2029-stone-game-ix) |
 ## Game Theory
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
@@ -101,11 +105,13 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/2029-stone-game-ix) |
 ## Array
 |  |
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [2029-stone-game-ix](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -151,4 +157,12 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+## Greedy
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/2029-stone-game-ix) |
+## Counting
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
