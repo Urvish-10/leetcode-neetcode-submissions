@@ -115,6 +115,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/0169-majority-element) |
+| [1386-cinema-seat-allocation](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/1563-stone-game-v) |
 | [1929-concatenation-of-array](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/1929-concatenation-of-array) |
 | [2029-stone-game-ix](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/2029-stone-game-ix) |
@@ -127,6 +128,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/0169-majority-element) |
+| [1386-cinema-seat-allocation](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -166,10 +168,12 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Bit Manipulation
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/1386-cinema-seat-allocation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Greedy
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/2029-stone-game-ix) |
 ## Counting
 |  |
