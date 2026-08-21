@@ -79,6 +79,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [1510-stone-game-iv](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/2029-stone-game-ix) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -123,6 +124,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Hash Table
@@ -153,6 +155,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## String
 |  |
 | ------- |
@@ -170,6 +173,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/1386-cinema-seat-allocation) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Greedy
 |  |
@@ -194,4 +198,12 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [1929-concatenation-of-array](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/1929-concatenation-of-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Combinatorics
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Number Theory
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 <!---LeetCode Topics End-->
