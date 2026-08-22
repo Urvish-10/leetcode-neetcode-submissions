@@ -80,6 +80,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [1563-stone-game-v](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Dynamic Programming
 |  |
 | ------- |
