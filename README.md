@@ -117,6 +117,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/0169-majority-element) |
+| [0238-product-of-array-except-self](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/0238-product-of-array-except-self) |
 | [1386-cinema-seat-allocation](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/1563-stone-game-v) |
 | [1929-concatenation-of-array](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/1929-concatenation-of-array) |
@@ -207,4 +208,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
