@@ -168,6 +168,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Binary Search
 |  |
 | ------- |
@@ -181,6 +182,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Segment Tree
 |  |
 | ------- |
@@ -243,4 +245,5 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 <!---LeetCode Topics End-->
