@@ -124,6 +124,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/0169-majority-element) |
@@ -176,6 +177,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
