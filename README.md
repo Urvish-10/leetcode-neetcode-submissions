@@ -149,6 +149,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [3875-construct-uniform-parity-array-i](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -252,6 +253,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0523-continuous-subarray-sum](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/0523-continuous-subarray-sum) |
 | [1872-stone-game-viii](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/1872-stone-game-viii) |
 | [3903-smallest-stable-index-i](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/3904-smallest-stable-index-ii) |
 ## Pigeonhole Principle
 |  |
 | ------- |
