@@ -135,6 +135,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0169-majority-element](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/0238-product-of-array-except-self) |
 | [0523-continuous-subarray-sum](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/0523-continuous-subarray-sum) |
+| [0835-image-overlap](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/0835-image-overlap) |
 | [1386-cinema-seat-allocation](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/1872-stone-game-viii) |
@@ -291,6 +292,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Tree
 |  |
