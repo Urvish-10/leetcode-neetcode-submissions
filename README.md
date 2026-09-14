@@ -77,6 +77,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/0523-continuous-subarray-sum) |
+| [0836-rectangle-overlap](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/0836-rectangle-overlap) |
 | [1510-stone-game-iv](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/1872-stone-game-viii) |
@@ -310,4 +311,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/3483-unique-3-digit-even-numbers) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
