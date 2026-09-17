@@ -95,6 +95,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0115-distinct-subsequences](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/0940-distinct-subsequences-ii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -141,6 +142,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0523-continuous-subarray-sum](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/0523-continuous-subarray-sum) |
 | [0835-image-overlap](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/0835-image-overlap) |
 | [1386-cinema-seat-allocation](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/1386-cinema-seat-allocation) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/1872-stone-game-viii) |
 | [1929-concatenation-of-array](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/1929-concatenation-of-array) |
@@ -168,6 +170,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0169-majority-element](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/0169-majority-element) |
 | [0523-continuous-subarray-sum](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/0523-continuous-subarray-sum) |
 | [1386-cinema-seat-allocation](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/1386-cinema-seat-allocation) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -186,6 +189,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Sliding Window
 |  |
 | ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -201,6 +205,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## String
