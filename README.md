@@ -171,6 +171,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0523-continuous-subarray-sum](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/0523-continuous-subarray-sum) |
 | [1386-cinema-seat-allocation](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -183,6 +184,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/0169-majority-element) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -213,6 +215,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0115-distinct-subsequences](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/0940-distinct-subsequences-ii) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -239,6 +242,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/1386-cinema-seat-allocation) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/2091-removing-minimum-and-maximum-from-array) |
