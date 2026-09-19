@@ -78,6 +78,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/0523-continuous-subarray-sum) |
 | [0836-rectangle-overlap](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1510-stone-game-iv](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -332,4 +333,5 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
