@@ -155,6 +155,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0238-product-of-array-except-self](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/0238-product-of-array-except-self) |
 | [0523-continuous-subarray-sum](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/0523-continuous-subarray-sum) |
 | [0835-image-overlap](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/1254-number-of-closed-islands) |
 | [1386-cinema-seat-allocation](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/1563-stone-game-v) |
@@ -380,6 +381,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Linked List
@@ -391,11 +393,13 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/1254-number-of-closed-islands) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Matrix
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/1254-number-of-closed-islands) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Tree
@@ -406,6 +410,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Depth-First Search
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
