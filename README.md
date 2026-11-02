@@ -77,6 +77,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/0523-continuous-subarray-sum) |
 | [0836-rectangle-overlap](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -157,6 +158,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0169-majority-element](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/0238-product-of-array-except-self) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/0523-continuous-subarray-sum) |
 | [0835-image-overlap](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/1254-number-of-closed-islands) |
@@ -232,6 +234,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/0169-majority-element) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1096-brace-expansion-ii](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/2089-find-target-indices-after-sorting-array) |
