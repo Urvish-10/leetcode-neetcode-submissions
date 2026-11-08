@@ -165,6 +165,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0523-continuous-subarray-sum](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/0523-continuous-subarray-sum) |
 | [0835-image-overlap](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -361,6 +362,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/0169-majority-element) |
+| [1267-count-servers-that-communicate](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/1267-count-servers-that-communicate) |
 | [2029-stone-game-ix](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/2029-stone-game-ix) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Divide and Conquer
@@ -415,6 +417,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -428,6 +431,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0301-remove-invalid-parentheses](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/1267-count-servers-that-communicate) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Matrix
@@ -435,6 +439,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0835-image-overlap](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/1267-count-servers-that-communicate) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -450,6 +455,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/1267-count-servers-that-communicate) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Urvish-10/leetcode-neetcode-submissions/tree/master/3841-palindromic-path-queries-in-a-tree) |
